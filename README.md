@@ -2,12 +2,12 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Pedro Arthur Silva Senra
+Matricula: 924367
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Sim ele possui um titulo](images/Com%20titulo.png)
 
 
 
@@ -17,4 +17,4 @@ Acesse e leia o [tutorial do GitHub com a sintaxe básica para escrita de texto 
 
 Veja aqui o exemplo de como colocar uma imagem nos locais acima. 
 
-![Brasão PUC Minas](images/brasao_puc.png)
+
